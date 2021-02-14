@@ -1,0 +1,32 @@
+<?php
+
+/**
+ * TestLink Issue from GitHub Plugin
+ * This script is distributed under the GNU General Public License 3 or later.
+ *
+ * @filesource  IssueFromGitHub.php
+ * @copyright   2021, naofum
+ * @link        https://github.com/naofum/testlink-issue-from-github
+ *
+ */
+
+$TLS_plugin_IssueFromGitHub_description = "GitHub 連携 Plugin";
+$TLS_plugin_IssueFromGitHub_import = "GitHub 連携";
+$TLS_plugin_IssueFromGitHub_disp_page_header_message = "GitHub からチケットを取り込みます";
+$TLS_plugin_IssueFromGitHub_disp_page_title = "GitHub 連携 Plugin";
+$TLS_plugin_IssueFromGitHub_disp_label_id = "Issue";
+$TLS_plugin_IssueFromGitHub_disp_label_parent = "テストスイート";
+$TLS_plugin_IssueFromGitHub_disp_label_url = "URL";
+$TLS_plugin_IssueFromGitHub_disp_label_title = "タイトル";
+$TLS_plugin_IssueFromGitHub_disp_label_status = "ステータス";
+$TLS_plugin_IssueFromGitHub_disp_label_summary = "サマリー";
+$TLS_plugin_IssueFromGitHub_disp_label_testset = "追加テストセット";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest1 = "ユニットテスト（単体テスト）";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest2 = "カバレッジ/網羅テスト（単体テスト）";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest3 = "CrossBrowserTesting（テスト環境）";
+$TLS_plugin_IssueFromGitHub_disp_label_cancel_button = "ホームに戻る";
+$TLS_plugin_IssueFromGitHub_disp_label_confirm_button = "確認";
+$TLS_plugin_IssueFromGitHub_disp_label_submit_button = "実行";
+$TLS_plugin_IssueFromGitHub_disp_not_found = "見つかりません";
+$TLS_plugin_IssueFromGitHub_disp_confirm = "ご確認ください";
+$TLS_plugin_IssueFromGitHub_disp_completed = "登録しました";

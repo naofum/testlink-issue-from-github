@@ -1,0 +1,32 @@
+<?php
+
+/**
+ * TestLink Issue from GitHub Plugin
+ * This script is distributed under the GNU General Public License 3 or later.
+ *
+ * @filesource  IssueFromGitHub.php
+ * @copyright   2021, naofum
+ * @link        https://github.com/naofum/testlink-issue-from-github
+ *
+ */
+
+$TLS_plugin_IssueFromGitHub_description = "Issue From GitHub Plugin";
+$TLS_plugin_IssueFromGitHub_import = "GitHub 連携";
+$TLS_plugin_IssueFromGitHub_disp_page_header_message = "Import issue from GitHub";
+$TLS_plugin_IssueFromGitHub_disp_page_title = "Issue From GitHub Plugin";
+$TLS_plugin_IssueFromGitHub_disp_label_id = "Issue";
+$TLS_plugin_IssueFromGitHub_disp_label_parent = "Testsuite";
+$TLS_plugin_IssueFromGitHub_disp_label_url = "URL";
+$TLS_plugin_IssueFromGitHub_disp_label_title = "Title";
+$TLS_plugin_IssueFromGitHub_disp_label_status = "Status";
+$TLS_plugin_IssueFromGitHub_disp_label_summary = "Summary";
+$TLS_plugin_IssueFromGitHub_disp_label_testset = "Add testset";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest1 = "Unittest";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest2 = "Coverage";
+$TLS_plugin_IssueFromGitHub_disp_label_unittest3 = "CrossBrowserTesting";
+$TLS_plugin_IssueFromGitHub_disp_label_cancel_button = "Back to home";
+$TLS_plugin_IssueFromGitHub_disp_label_confirm_button = "Confirm";
+$TLS_plugin_IssueFromGitHub_disp_label_submit_button = "Submit";
+$TLS_plugin_IssueFromGitHub_disp_not_found = "Not found";
+$TLS_plugin_IssueFromGitHub_disp_confirm = "Please confirm";
+$TLS_plugin_IssueFromGitHub_disp_completed = "Completed";
